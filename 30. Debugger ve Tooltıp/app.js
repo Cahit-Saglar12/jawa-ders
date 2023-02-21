@@ -9,9 +9,10 @@
 
 /*
 debugger; //! bu kodu yazdığımız koyduğumuz yerden itibaren kodu çalıştırıyoruz 
-//!consoldan "Sources" bölümünde tek tek kontrol edebiliriz ve kodaları inceleyebilirz
-let a = 10;
+//! consoldan "Sources" bölümünde tek tek kontrol edebiliriz ve kodaları inceleyebilirz
 
+let a = 10;
+debugger;
 let b = 15;
 let c = a + b;
 let d = a + b + c;

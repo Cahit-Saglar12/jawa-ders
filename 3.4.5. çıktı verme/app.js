@@ -13,11 +13,11 @@
 // console.log(true);
 // console.log({name:"Ayşe Nur", surname : "Ülker"});
 
-// //console.clear();
+// console.clear();
 
 // let a=5;
 // let b=10;
-
+// 
 // console.log(a+b);
 // console.log("iki sayının toplamı :" ,a+b );
 // console.log("İki sayının toplamı:" , + (a+b));
@@ -31,9 +31,9 @@
 // let  a = 10;
 // let b = 12;
 
-// alert("iki sayının toplamı:" + (a+b));
 
-//alert("F5 tuşuna lütfen basmayını");
+// alert("iki sayının toplamı:" + (a+b));
+// alert("F5 tuşuna lütfen basmayınız");
 
 // console.warn("Hata oluştu");
 
@@ -44,7 +44,7 @@
 
 
 //YORUM SATIRI - projedeki kodların açıklamasına yardımcı olur
-/**
+/*
  mcksdmv
 
  fdgdfbhg
@@ -65,5 +65,5 @@
 TODO burayı şöyle yapılacak şeklinde oluyor
 *Test mesaj..
 
-
+ctrl + ö ile seçip yorum satırını tek seferde de oluşturabilirsiniz.
  */

@@ -38,7 +38,7 @@
     
     // method1();
     
-    function method1(){
+    /*function method1(){
         var a =5; //Function Scope
         if(true){
             var b =10; // block Scope
@@ -54,7 +54,7 @@
     
     console.log(a);
     
-    method1();
+    method1();*/
     
     
     
